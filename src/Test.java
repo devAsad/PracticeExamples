@@ -23,7 +23,7 @@ public class Test {
             return x * y;
         }
 
-        public float div(float x, float y) {
+        public float div(int x, int y) {
             float z = 0;
             try {
                 z = x / y;

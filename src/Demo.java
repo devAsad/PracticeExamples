@@ -24,6 +24,7 @@ public class Demo {
             }
             System.out.println();
         }
+        System.out.println();
         for (i=0; i<n; i++){
             int cnt=0;
             for (j=0;j<m; j++) {
@@ -45,3 +46,14 @@ public class Demo {
         }
     }
 }
+/*
+* For 3*3 matrix --:
+*Input:
+0 0 1
+0 1 0
+0 1 1
+Output:
+1 0 0
+1 0 0
+1 1 0
+*/
